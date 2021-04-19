@@ -1,8 +1,5 @@
 # Curriculum Vitae - Karelle Keters
-k.karelle@hotmail.be
-0468120063
-Justus de Harduwijnlaan 5, 9000 Gent
-23/08/1993
+k.karelle@hotmail.be - 0468120063 - Justus de Harduwijnlaan 5, 9000 Gent - 23/08/1993
 ---
 
 > I'm a 27 year old (in)experienced programmer who loves to learn more about coding
